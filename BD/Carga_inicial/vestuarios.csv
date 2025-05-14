@@ -1,0 +1,2 @@
+id,folio,nombre,tipo,talla,genero,disponibilidad,region_id,img_vestuario_url,created_at
+1,MICH-TC-H01,Traje de Apatzingan Hombre,Traje Completo,M,Hombre,true,1,https://yclpghrhxzbdbszvvnnq.supabase.co/storage/v1/object/public/folklortrack/vestuarios/TierraCaliente_Hombre.png,2024-03-15 10:15:00-06
